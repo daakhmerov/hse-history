@@ -1,4 +1,1 @@
-markdown: kramdown
-kramdown:
-  input: GFM
-  gfm_quirks: [paragraph_end]
+theme: jekyll-theme-primer
