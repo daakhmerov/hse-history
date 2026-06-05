@@ -1,0 +1,4 @@
+plugins:
+  - jekyll-github-alerts
+
+remote_theme: pages-themes/primer@v0.6.0
