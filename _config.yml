@@ -1,4 +1,3 @@
-remote_theme: dunkmann00/primer@v0.16.0
-plugins:
-  - jekyll-github-alerts
-  - jekyll-remote-theme
+markdown: kramdown
+kramdown:
+  parse_block_html: true
