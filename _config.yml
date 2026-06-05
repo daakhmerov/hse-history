@@ -1,4 +1,2 @@
-theme: jekyll-v4-theme-primer
-
 plugins:
   - jekyll-github-alerts
