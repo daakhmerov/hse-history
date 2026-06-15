@@ -16,8 +16,8 @@
 1. Называйте файлы по следующей схеме: 
 	- Семинар X\_Фамилия Имя\_НазваниеРаботы
 2. Пожалуйста, загружайте все ваши работы, **включая групповые**, в ваши индивидуальные папки, если не указано иного.
-	- **Филологи:** [https://daakhmerov.fvds.ru/s/X7JgFeq7G6FaC6b](https://daakhmerov.fvds.ru/s/X7JgFeq7G6FaC6b)
-	- **Востоковеды:** [https://daakhmerov.fvds.ru/s/MKqEXseXQH9dkDj](https://daakhmerov.fvds.ru/s/MKqEXseXQH9dkDj) 
+	- **Филологи:** [https://daakhmerov.fvds.ru/s/HHc73aJTZZ5jmQi](https://daakhmerov.fvds.ru/s/HHc73aJTZZ5jmQi)
+	- **Востоковеды:** [https://daakhmerov.fvds.ru/s/7dmFocsbxXjEq8i](https://daakhmerov.fvds.ru/s/7dmFocsbxXjEq8i) 
 
 ---
 
